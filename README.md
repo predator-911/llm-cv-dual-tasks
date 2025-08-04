@@ -75,29 +75,3 @@ https://github.com/predator-911/llm-cv-dual-tasks
 🏁 Status
 ✅ Both tasks complete, benchmarked, validated and submission-ready.
 
-yaml
-Copy
-Edit
-
----
-
-## ✅ Final Steps
-
-1. 🔃 Create the folder structure:
-   ```bash
-   mkdir -p llm-cv-dual-tasks/task1_image_classification
-   mkdir -p llm-cv-dual-tasks/task2_time_parser_llm
-🧠 Save each notebook into its folder.
-
-📝 Add the README.md to root.
-
-🚀 Push to GitHub:
-
-bash
-Copy
-Edit
-git init
-git add .
-git commit -m "Initial commit with Task 1 & Task 2"
-git remote add origin https://github.com/YOUR_USERNAME/llm-cv-dual-tasks.git
-git push -u origin main
